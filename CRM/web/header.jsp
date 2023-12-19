@@ -1,8 +1,8 @@
 
 <div class="row bg-danger text-light">
-    <div class="col-sm-4"> Contact No:8887153215</div>    
-    <div class="col-sm-4">Email Id:<a href="mailto:rehanfiroz0786@gamil.com">rehanfiroz0786@gmail.com</a></div>
-    <div class="col-sm-4">Follow Us:<a href="Instagram">rehan.firoz</div>
+    <div class="col-sm-4"> Contact No:9695777307</div>    
+    <div class="col-sm-4">Email Id:<a href="mailto:maurya.ayu2002@gamil.com">maurya.ayu2002@gmail.com</a></div>
+    <div class="col-sm-4">Follow Us:<a href="Instagram">ayush2215</div>
 </div>
 <div class="row">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
