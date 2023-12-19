@@ -44,17 +44,17 @@
                                             <div class="col-sm-4"style="background-color:pink; min-height: 200px; text-align:center">
                                                 <img src="images/facebook.png">
                                                 <br>
-                                                <a href="https://www.facebook.com/rehan.firoz.773?mibextid=kFxxJD">"https://www.facebook.com"</a>
+                                                <a href="https://www.facebook.com/ayu.maurya">"https://www.facebook.com"</a>
                                             </div>
                                             <div class="col-sm-4"style="background-color:pink; min-height: 200px; text-align:center">
                                                 <img src="images/instagram.png">
                                                 <br>
-                                                <a href="https://instagram.com/rehan.firoz?igshid=OGQ5ZDc2ODk2ZA==">"https://instagram.com"</a>
+                                                <a href="https://www.instagram.com/ayush2215/?igshid=OGQ5ZDc2ODk2ZA%3D%3D">"https://instagram.com"</a>
                                             </div>
                                             <div class="col-sm-4"style="background-color:pink; min-height: 200px; text-align:center">
                                                 <img src="images/link.png">
                                                 <br>
-                                                <a href="https://www.linkedin.com/in/rehan-firoz-3b5b28220">"https://www.linkedin.com</a> 
+                                                <a href="https://www.linkedin.com/in/ayush-maurya-b695a7201/">"https://www.linkedin.com</a> 
                                             </div>
                                         </div>
 
